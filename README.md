@@ -1,4 +1,4 @@
 # GameOfGo
- GameOfLive written in Go using SDL2
+ GameOfLife written in Go using SDL2
 
 ![](https://i.imgur.com/Omx8Jes.png)
